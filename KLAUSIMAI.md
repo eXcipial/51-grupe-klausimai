@@ -7,3 +7,5 @@
 ## Trečias pavyzdys???
 
 ## test klausimas
+
+## kuo skiriasi <menu></menu>  nuo <ul></ul>     ir     <del></del> nuo <s></s>?
